@@ -45,7 +45,7 @@ I am continuously improving my technical and problem-solving skills while prepar
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" />][intellij] &nbsp;
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />][springboot] &nbsp;
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />][linux] &nbsp;
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-kafka/apache-kafka.png" />][kafka] &nbsp;
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />][kafka] &nbsp;
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />][nosql] &nbsp;
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />][aws]
 
