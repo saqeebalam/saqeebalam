@@ -33,19 +33,22 @@ I am continuously improving my technical and problem-solving skills while prepar
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode] &nbsp; 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5] &nbsp; 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3] &nbsp; 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass] &nbsp; 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js] &nbsp; 
-[<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg' alt='adobexd' />][adobe] &nbsp; 
-[<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma'/>][figma]   &nbsp; 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react] &nbsp; 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][python] &nbsp; 
-[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java] &nbsp; 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql] &nbsp; 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />][bootstrap] &nbsp; 
-[<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' />][django]  
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />][vscode] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />][html5] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][css3] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />][sass] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][js] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][python] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />][sql] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />][bootstrap] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" />][intellij] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />][springboot] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />][linux] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-kafka/apache-kafka.png" />][kafka] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />][nosql] &nbsp;
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />][aws]
+
 
 
 
